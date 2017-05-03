@@ -1,6 +1,8 @@
 package com.cat.project;
 
-
+/**
+* Convert a number from this format: (1000000) to this format: (1,000,000)
+*/
 public class NumberFormating {
 	
 	public static void main(String[] args){
